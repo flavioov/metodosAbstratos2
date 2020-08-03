@@ -44,3 +44,9 @@ SoftTech: $ 56000.00\
 Bob: $ 29500.00\
 
 TOTAL TAXES: $ 97000.00
+
+#uml
+
+<p align="center">
+  <img src="/uml.png" width="646" title="program structure" alt="uml">
+</p>
